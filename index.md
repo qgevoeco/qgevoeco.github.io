@@ -1,8 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
----
+title: "The Wolak Research Group at Auburn University
 
 <div class="tiles">
 {% for post in site.posts %}
