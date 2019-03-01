@@ -5,7 +5,7 @@ description: "The Wolak Research Group at Auburn University."
 logo: Warlak_siteLogoCard240px.png # 120x120 px default image used for Twitter summary card MEW used 240px because 120px was blotchy
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://qgevoeco.github.io
 feed:
   path: atom.xml
 
@@ -26,10 +26,10 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: Matthew Wolak
   email:
   twitter:
-  google:
+  google:  # Below ad-client and ad-slot includes Google ads: MEW - !DON'T!!
     ad-client:
     ad-slot:
   bio:
