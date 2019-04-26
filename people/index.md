@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /people/
 title: "Meet the Group"
 ---
