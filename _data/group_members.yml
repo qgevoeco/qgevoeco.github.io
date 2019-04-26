@@ -1,0 +1,121 @@
+# Authors
+
+- title:
+  members:
+  - name: Matthew Wolak
+    role: Principal Investigator
+    web: http://qgevoeco.github.io
+    email: terps@auburn.edu
+    bio: >
+        Fascinated by variance. 
+#Titilated by covariance.
+Investigating the causes of among individual variation and how they drive evolution by natural selection, fitness variation, and population dynamics.
+    avatar: Warlak_siteLogoCard240px.png
+    github: matthewwolak
+#    cv: cv-Wolak.pdf
+
+
+#- title: Postdocs
+#  members:
+
+#  - name: Sewall Wright
+#    role: Postdoctoral Researcher
+#    start-date: 1919
+#    bio: >
+#        Effectiveness of guinea pigs as erasers.
+#    avatar: Warlak_siteLogoCard240px.png # in `/images`
+#    email: <ifyouwant@auburn.edu>
+#    web: NOT http://qgevoeco.github.io
+#    twitter: <if you must else DELETE line>
+
+
+#  - name: Maria Joao Janeiro
+#    role: Postdoctoral Researcher
+#    start-date: 2019
+#    bio: >
+#        Short and sweet.
+#    avatar: Warlak_siteLogoCard240px.png # in `/images`
+#    email: <ifyouwant@auburn.edu>
+#    web: NOT http://qgevoeco.github.io
+#    twitter: <if you must else DELETE line>
+
+
+- title: Graduate Students
+  members:
+
+
+#  - name: You?
+#    role: <MS or PhD> Student
+#    start-date: 20XX
+#    bio: >
+#        Short and sweet.
+#    avatar: Warlak_siteLogoCard240px.png # in `/images`
+#    email: <ifyouwant@auburn.edu>
+#    web: NOT http://qgevoeco.github.io
+#    cv: <cv-LastName.pdf> # in `/people/` 
+#    twitter: <if you must else DELETE line>
+#    coadvisor: <Matt's personalities all count as 1 advisor - otherwise someone else>
+#    coadvisor-url: http://blah.blah
+
+
+  - name: Jacob Botello
+    role: Ph.D. Student
+    start-date: 2017
+    bio: >
+
+    avatar: Warlak_siteLogoCard240px.png
+
+  - name: Iwo Gross
+    role: Ph.D. Student
+    start-date: 2017
+    bio: >
+    avatar: Warlak_siteLogoCard240px.png
+
+  - name: Matthew Welc
+    role: M.Sc. Student
+    start-date: 2017
+    bio: >
+    avatar: Warlak_siteLogoCard240px.png
+
+
+
+- title: Undergraduate Researchers
+  members:
+
+#  - name: You?
+#    role: Undergraduate Researcher
+#    start-date: 20XX
+#    bio: >
+#        Short and sweet.
+#    avatar: Warlak_siteLogoCard240px.png # in `/images`
+#    email: <ifyouwant@auburn.edu>
+#    coadvisor: <Matt's personalities all count as 1 advisor - otherwise someone else>
+#    coadvisor-url: http://blah.blah
+
+
+
+
+#- title: Honorary Members
+#  members:
+#  - name: The Fern
+#    role: Director
+#    bio: >
+#        
+#    avatar: .jpg
+
+
+#- title: Former Lab Members
+#  members:
+#  - name: Ronald A. Fisher
+#    role: Ph.D. Student
+#    start-date: 1916
+#    end-date: 1918
+#    current-position: Currently unemployed
+#    bio: >
+#        Synthesizing evolution using and developing modern theory.
+#    avatar: Warlak_siteLogoCard240px.png # in `/images`
+#    email: <ifyouwant@auburn.edu>
+#    coadvisor: Tonia Schwartz
+#    coadvisor-url: https://www.schwartzlab-ecoevolutionarygenomics.org/
+
+
