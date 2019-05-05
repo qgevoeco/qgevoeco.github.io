@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /people/
 title: "Meet the Group"
 ---
