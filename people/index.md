@@ -16,7 +16,7 @@ If you are interested in volunteering in the lab please [e-mail me](mailto:terps
 If you are interested in working on a fellowship application, I would be very happy to collaborate. Please [contact me](mailto:terps@auburn.edu).
 
 # The Wolak Research Group:
-{% include _group_members.html %}
+{% include _group-members.html %}
 
 
 
