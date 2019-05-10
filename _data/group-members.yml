@@ -1,0 +1,60 @@
+# Author
+
+  - title:
+    members:
+    - name: Matthew Wolak
+      role: Principle Investigator
+      web: https://gqevoeco.github.io
+      email: terps@auburn.edu
+      avatar: Warlak_siteLogoCard240px.png
+      bio: > 
+           Fascinated by variance. Investigates the causes of among individual variation and how they drive evolution by natural selection.
+      github: matthewwolak
+
+#- title: Postdocs
+#  members:
+
+#  - name: Maria Joao Janeiro
+#    role: Postdoctoral Researcher
+#    start-date: 2019
+#    bio: >
+#        Short and sweet.
+#    avatar: Warlak_siteLogoCard240px.png # in `/images`
+#    github: <octo-username>
+
+  - title: Graduate Students
+    members:
+
+    - name: Jacob Botello
+      role: Ph.D. Student
+      start-date: 2018
+      avatar: Warlak_siteLogoCard240px.png
+      bio: >
+           Newt enthusiast.
+
+    - name: Iwo Gross
+      role: Ph.D. Student
+      start-date: 2018
+      avatar: GrossIwo.jpg
+      bio: > 
+           Iwo’s baccalaureate and master’s work investigated the space-use patterns of diminutive snake species and newborn pit-vipers with respect to road ecology and forest management practices. As a Ph.D. student, Iwo intends to expand his research scope to assess how natural, sexual, and anthropogenic pressures within an ecosystem shape turtle demographics and life-history evolution. In his free time, Iwo practices jiu-jitsu and judo, and enjoys recreational surveys for amphibians and reptiles.
+
+    - name: Matthew Welc
+      role: M.Sc. Student
+      start-date: 2018
+      avatar: WelcMatthew.jpg
+      bio: > 
+           I am interested in the ecology, evolution, and biogeography of reptiles and amphibians – especially turtles. For my thesis I am studying stripe-necked musk turtles (*Sternotherus peltifer*) in the Cahaba river. When not chasing down turtles, I enjoy hiking, photography, and SCUBA diving.
+    github: welcmatt
+
+
+
+  - title: Undergraduate Researchers
+    members:
+
+
+#- title: Honorary Members
+
+
+#- title: Former Lab Members
+

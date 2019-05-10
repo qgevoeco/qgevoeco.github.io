@@ -4,3 +4,13 @@
   url:
   excerpt:
   image:
+
+- title: QG EvoEco
+  url: /
+  excerpt: Home
+  image:
+
+- title: People
+  url: /people/
+  excerpt: Group members
+  image:
