@@ -46,7 +46,7 @@ $border-radius               	: 3px;
 /*
    Color variables
    ========================================================================== */
-
+/* MEW commented out the original skinny bones colors
 $white                        : #fff;
 $black                        : #000;
 
@@ -57,7 +57,18 @@ $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
-$border-color                	: #ddd;
+$border-color                	: #ddd; */
+$white                        : #fff;
+$black                        : #000;
+
+$body-color                  	: #03244d;
+
+$text-color                  	: #03244d;
+$caption-color                : mix($white, $text-color, 25%);
+
+$base-color                  	: #03244d;
+$comp-color                  	: complement($base-color);
+$border-color                	: #e86823;
 $link-color                  	: #222;
 
 $primary-color               	: $black;
