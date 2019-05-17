@@ -22,17 +22,19 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+#  - jekyll/scholar #added because in phyletica DELETEME if Works
 
 
 # Site owner
 owner:
   name: Matthew Wolak
-  email:
+  email: terps@auburn.edu
   twitter:
   google:  # Below ad-client and ad-slot includes Google ads: MEW - !DON'T!!
     ad-client:
     ad-slot:
-  bio:
+  github: matthewwolak
+  bio: "Evolutionary Ecologist and Quantitative Geneticist"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
