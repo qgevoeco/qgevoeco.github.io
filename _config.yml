@@ -18,7 +18,7 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -37,7 +37,6 @@ owner:
   bio: "Evolutionary Ecologist and Quantitative Geneticist"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
-
 
 include:
   - .htaccess

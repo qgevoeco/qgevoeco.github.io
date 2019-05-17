@@ -5,9 +5,35 @@
 /*
    Typography variables
    ========================================================================== */
+/* MEW: first, define a new base font: */
+@font-face {
+    font-family: 'Linux Biolinum';
+    src: url('../fonts/LinBiolinum_R.woff') format('woff'),
+         url('../fonts/LinBiolinum_Rah.ttf') format('truetype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Linux Biolinum';
+    font-style: italic;
+    src: url('../fonts/LinBiolinum_RI.woff') format('woff'),
+         url('../fonts/LinBiolinum_RIah.ttf') format('truetype');
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'Linux Biolinum';
+    font-style: bold;
+    src: url('../fonts/LinBiolinum_RB.woff') format('woff'),
+         url('../fonts/LinBiolinum_RBah.ttf') format('truetype');
+    font-weight: 800;
+}
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
+
+/* Now, back to the original theme font settings with my changes */
+/* $base-font                   	: Georgia,Times,"Times New Roman",serif;
 $heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+*/
+$base-font                   	: 'Linux Biolinum', 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+$heading-font                	: 'Linux Biolinum', 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
@@ -20,7 +46,7 @@ $border-radius               	: 3px;
 /*
    Color variables
    ========================================================================== */
-
+/* MEW commented out the original skinny bones colors
 $white                        : #fff;
 $black                        : #000;
 
@@ -31,7 +57,18 @@ $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
-$border-color                	: #ddd;
+$border-color                	: #ddd; */
+$white                        : #fff;
+$black                        : #000;
+
+$body-color                  	: #03244d;
+
+$text-color                  	: #03244d;
+$caption-color                : mix($white, $text-color, 25%);
+
+$base-color                  	: #03244d;
+$comp-color                  	: complement($base-color);
+$border-color                	: #e86823;
 $link-color                  	: #222;
 
 $primary-color               	: $black;
