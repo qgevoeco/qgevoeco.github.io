@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/articles/a-draft-post/</loc>
+<lastmod>2019-06-04T17:04:28-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/a-draft-news/</loc>
+<lastmod>2019-06-04T17:05:23-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/people/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/news/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/articles/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
