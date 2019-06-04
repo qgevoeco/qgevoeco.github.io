@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "The Wolak Research Group at Auburn University"
+image:
+  feature: shakyCmacBox.gif
 ---
 
 # Would you like to join the group?
