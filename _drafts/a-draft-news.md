@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "How to create a draft for a post"
-categories: articles
+title: "How to create a draft for a news item"
+categories: news
 except: "A template for starting a draft, before publishing"
 tags: [sample, test, draft]
 ---
