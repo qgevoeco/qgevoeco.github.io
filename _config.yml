@@ -6,6 +6,7 @@ logo: Warlak_siteLogoCard240px.png # 120x120 px default image used for Twitter s
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://qgevoeco.github.io
+url: https://qgevoeco.com
 feed:
   path: atom.xml
 
