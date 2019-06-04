@@ -1,16 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
-
 - title: QG EvoEco
   url: /
   excerpt: Home
   image:
 
+- title: News
+  url: /news
+  excerpt: What's new with us!
+  image:
+
 - title: People
   url: /people/
   excerpt: Group members
+  image:
+
+- title: Posts
+  url: /articles
+  excerpt: Posts from the Group
   image:
