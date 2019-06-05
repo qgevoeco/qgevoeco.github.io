@@ -1,1 +1,1 @@
-Sitemap: https://qgevoeco.com/sitemap.xml
+Sitemap: https://qgevoeco.github.io/sitemap.xml
