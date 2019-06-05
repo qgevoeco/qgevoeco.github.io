@@ -6,7 +6,7 @@
       role: Principle Investigator
       web: https://gqevoeco.github.io
       email: terps@auburn.edu
-      avatar: Warlak_siteLogoCard240px.png
+      avatar: circle_Warlak20190205.png
       bio: > 
            Fascinated by variance. Investigates the causes of among individual variation and how they affect evolution by natural selection.
       github: matthewwolak
@@ -19,7 +19,7 @@
 #    start-date: 2019
 #    bio: >
 #        Short and sweet.
-#    avatar: Warlak_siteLogoCard240px.png # in `/images`
+#    avatar: circle_Warlak20190205.png # in `/images`
 #    github: <octo-username>
 
   - title: Graduate Students
@@ -28,14 +28,14 @@
     - name: Jacob Botello
       role: Ph.D. Student
       start-date: 2018
-      avatar: Warlak_siteLogoCard240px.png
+      avatar: circle_Warlak20190205.png
       bio: >
            Newt enthusiast.
 
     - name: Molly Folkerts Caldwell
       role: Ph.D. Student
       start-date: 2019
-      avatar: CaldwellMolly.jpg
+      avatar: circle_CaldwellMolly.png
       bio: > 
            Molly received a Bachelor of Science in Zoology from Auburn University in 2012 and went on to complete a Master’s degree in Field and Organismal Biology from Louisiana State University in Shreveport. Her Master's thesis research was on variation in Green Heron nesting success in coastal marshes of southwest Louisiana. After finishing her Master's, she worked for over 3 years in coastal bird monitoring and conservation with Audubon Mississippi Coastal Bird Stewardship Program (National Audubon Society), protecting beach-nesting bird species such as the Least Tern and Black Skimmer. Although she has spent the last several years working with birds, Molly has always loved herps and is excited to begin studying yellow-bellied sliders and temperature-dependent sex determination. Molly's general interests are in conservation, reproductive biology, ecology, and evolution. Her ultimate goal is to pursue a career in which she can work to conserve imperiled species of the southeastern US.
       coadvisor: Dan Warner
@@ -44,14 +44,14 @@
     - name: Iwo Gross
       role: Ph.D. Student
       start-date: 2018
-      avatar: GrossIwo.jpg
+      avatar: circle_GrossIwo.png
       bio: > 
            Iwo’s baccalaureate and master’s work investigated the space-use patterns of diminutive snake species and newborn pit-vipers with respect to road ecology and forest management practices. As a Ph.D. student, Iwo intends to expand his research scope to assess how natural, sexual, and anthropogenic pressures within an ecosystem shape turtle demographics and life-history evolution. In his free time, Iwo practices jiu-jitsu and judo, and enjoys recreational surveys for amphibians and reptiles.
 
     - name: Matthew Welc
       role: M.Sc. Student
       start-date: 2018
-      avatar: WelcMatthew.jpg
+      avatar: circle_WelcMatthew.png
       bio: > 
            I am interested in the ecology, evolution, and biogeography of reptiles and amphibians – especially turtles. For my thesis I am studying stripe-necked musk turtles (*Sternotherus peltifer*) in the Cahaba river. When not chasing down turtles, I enjoy hiking, photography, and SCUBA diving.
       github: welcmatt
@@ -65,11 +65,11 @@
       role: NSF-REU
       start-date: May 2019
       end-date: August 2019
-      avatar: LopezPerezJorge.jpg
+      avatar: circle_LopezPerezJorge.png
       bio: > 
            I am an REU student working at Auburn for the summer of 2019. My project focuses on the effects that urbanization and human interaction may have on the nesting habits of yellow-bellied sliders. I am very interested in reptile/amphibian ecology, evolution, physiology, conservation, and parasite ecology. I have been lucky enough to work on various projects within these fields during my undergraduate career. Currently I am working on my undergraduate thesis, looking at potential sexual dimorphism within the immune system of *Sternotherus minor* (Loggerhead musk turtle). I spend most of my free time drawing, playing the guitar, photographing animals, and of course chasing down herps. 
       coadvisor: Dan Warner & Jamie Oaks
-      coadvisor-url: http://www.auburn.edu/cosam/faculty/biology/index.htm
+      coadvisor-url: https://www.auburn.edu/cosam/faculty/biology/index.htm
 
 
 #- title: Honorary Members
