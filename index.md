@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title:
 image:
-  feature: shakyCmacBox.gif
+  feature: 
 ---
 
 ## About us
