@@ -1,27 +1,15 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "The Wolak Research Group at Auburn University"
+title:
 image:
   feature: shakyCmacBox.gif
 ---
 
-## Recent News
+## About us
 
-<div class="tiles">
-{% for post in site.categories.news %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+TODO: who we are and what we do...
 
-
-## Recent Posts
-
-<div class="tiles">
-{% for post in site.categories.articles %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
 
 ## Would you like to join the group?
 ### Future Undergraduate Members
@@ -33,4 +21,21 @@ If you are interested in volunteering in the lab please [e-mail me](mailto:terps
 
 If you are interested in working on a fellowship application, I would be very happy to collaborate. Please [contact me](mailto:terps@auburn.edu).
 
+
+## Recent News
+
+<div class="tiles">
+{% for post in site.categories.news %}
+	{% include post-list.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+
+## Recent Posts
+
+<div class="tiles">
+{% for post in site.categories.articles %}
+	{% include post-list.html %}
+{% endfor %}
+</div><!-- /.tiles -->
 
