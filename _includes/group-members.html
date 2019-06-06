@@ -19,12 +19,12 @@
     {% else %}
         {% for member in stage.members %}
             <div class="member-wrap">
+                <h3 itemprop="name">{{ member.name }}{% if member.role %} &#8212; {{ member.role }}{% endif %}</h3>
             {% if member.avatar contains 'http' %}
         	    <img src="{{ member.avatar }}" class="bio-photo" alt="{{ member.name }} bio photo">
             {% else %}
         	    <img src="{{ site.baseurl }}/images/{{ member.avatar }}" class="bio-photo" alt="{{ member.name }} bio photo">
             {% endif %}
-                <h3 itemprop="name">{{ member.name }}{% if member.role %} &#8212; {{ member.role }}{% endif %}</h3>
                 {% if member.coadvisor %}
                     {% if member.coadvisor-url %}
                     <h4 itemprop="coadvisor">Co-advisor: <a href="{{ member.coadvisor-url}}">{{ member.coadvisor }}</a></h4>
