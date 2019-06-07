@@ -42,6 +42,7 @@ All changes to the content and styling happen within the second type of branch (
     If you want a different image as your `avatar:`
         - Name your image `LastnameFirstname.png` (or `.jpg`) and either send this to me or run the following in a terminal (must have Image Magick installed)
 
+
 ```
 FILE="WolakMatthew.png"
 ## First resize
@@ -55,6 +56,7 @@ convert ./cropped_$FILE \( -size 300x300 xc:none -fill white -draw "circle 150,1
         -composite \
     ./circle_$FILE
 ```
+
         - Now, add this to the [images](https://github.com/qgevoeco/qgevoeco.github.io/tree/preJekyll-src/images) folder (with file named "circle_LastnameFirstname.png") and add the file name to the `avatar:` line in your section of [_data/group-members.yml](https://github.com/qgevoeco/qgevoeco.github.io/blob/preJekyll-src/_data/group-members.yml)
 
 
