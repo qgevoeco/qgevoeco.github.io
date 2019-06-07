@@ -19,7 +19,7 @@ Use one of the following links to update the page directly from GitHub:
     end-date: 1988 # Only if you have FINISHED
     bio: >
         Guinea pig eraser effectiveness.
-    avatar: Warlak_siteLogoCard240px.png # in `/images`
+    avatar: circle_Warlak.png # image created by MEW and located in `/images`
     email: ifyouwant@auburn.edu>
     web: http://theotherwrightbrother.com # NOT http://qgevoeco.github.io
     cv: Wright_CV_2019.pdf # file located in `/people/`
@@ -29,5 +29,5 @@ Use one of the following links to update the page directly from GitHub:
     coadvisor-url: http://blah.blah
 ```
     - If you want a different image as your `avatar:`
-        - Name your image `LastnameFirstname.jpg` and commit this to the [images directory](https://github.com/qgevoeco/qgevoeco.github.io/tree/master/images).
+        - Name your image `LastnameFirstname.jpg` and e-mail this to Dr. Wolak.
 
