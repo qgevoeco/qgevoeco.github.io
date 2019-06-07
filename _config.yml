@@ -22,6 +22,7 @@ highlighter: rouge
 plugins:
   - jekyll-gist
   - jekyll-feed
+  - jekyll-avatar
   - jekyll/scholar
   - jekyll-sitemap
 

@@ -5,6 +5,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "jekyll-gist"
 gem "jekyll-feed"
+gem "jekyll-avatar"
 gem "jekyll-scholar"
 gem "jekyll-sitemap"
 

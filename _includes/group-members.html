@@ -23,8 +23,16 @@
             {% if member.avatar contains 'http' %}
         	    <img src="{{ member.avatar }}" class="bio-photo" alt="{{ member.name }} bio photo">
             {% else %}
-        	    <img src="{{ site.baseurl }}/images/{{ member.avatar }}" class="bio-photo" alt="{{ member.name }} bio photo">
-            {% endif %}
+                {% if member.avatar contains 'circle' %}
+        	        <img src="{{ site.baseurl }}/images/{{ member.avatar }}" class="bio-photo" alt="{{ member.name }} bio photo">
+                    {% else %}
+                        {% if member.github %}
+                                {% avatar {{ member.github }} size=400 %}
+                            {% else %}
+        	                 <img src="{{ site.baseurl }}/images/circle_Warlak20190205.png" class="bio-photo" alt="{{ member.name }} bio photo">
+                        {% endif %} <!-- github username present -->
+                {% endif %} <!-- avatar conains 'circle' -->
+            {% endif %} <!-- avatar conains 'http' -->
                 {% if member.coadvisor %}
                     {% if member.coadvisor-url %}
                     <h4 itemprop="coadvisor">Co-advisor: <a href="{{ member.coadvisor-url}}">{{ member.coadvisor }}</a></h4>

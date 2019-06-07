@@ -6,7 +6,7 @@
       role: Principle Investigator
       web: https://gqevoeco.github.io
       email: terps@auburn.edu
-      avatar: circle_Warlak20190205.png
+      avatar: # circle_Warlak.png
       bio: > 
            Fascinated by variance. Investigates the causes of among individual variation and how they affect evolution by natural selection.
       github: matthewwolak
@@ -19,7 +19,7 @@
 #    start-date: 2019
 #    bio: >
 #        Short and sweet.
-#    avatar: circle_Warlak20190205.png # in `/images`
+#    avatar: circle_Warlak.png # in `/images`
 #    github: <octo-username>
 
   - title: Graduate Students
@@ -28,7 +28,7 @@
     - name: Jacob Botello
       role: Ph.D. Student
       start-date: 2018
-      avatar: circle_Warlak20190205.png
+      avatar: #circle_Warlak.png
       bio: >
            Newt enthusiast.
 
