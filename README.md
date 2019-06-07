@@ -37,6 +37,7 @@ All changes to the content and styling happen within the second type of branch (
     coadvisor: Matt's personalities all count as 1 advisor # otherwise someone else
     coadvisor-url: http://blah.blah
 ```
+
     - If nothing is given for `avatar:`, but you do fill-in a GitHub username, your GitHub avatar will be used.
     If you want a different image as your `avatar:`
         - Name your image `LastnameFirstname.png` (or `.jpg`) and either send this to me or run the following in a terminal (must have Image Magick installed)
