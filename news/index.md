@@ -3,7 +3,7 @@ layout: archive
 title: "News"
 date:
 modified:
-excerpt: "The latest"
+excerpt: "The latest!"
 tags: []
 image:
   feature:

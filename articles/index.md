@@ -3,7 +3,7 @@ layout: archive
 title: "Articles"
 date:
 modified:
-excerpt: "Various musings"
+excerpt: "Various musings from the Group"
 tags: []
 image:
   feature:
