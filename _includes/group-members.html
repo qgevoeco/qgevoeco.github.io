@@ -16,7 +16,8 @@
                 {% endif %}
             </div>
         {% endfor %}
-    {% else %}
+    {% else %} <!-- Former members -->
+
         {% for member in stage.members %}
             <div class="member-wrap">
                 <h3 itemprop="name">{{ member.name }}{% if member.role %} &#8212; {{ member.role }}{% endif %}</h3>
@@ -33,20 +34,23 @@
                         {% endif %} <!-- github username present -->
                 {% endif %} <!-- avatar conains 'circle' -->
             {% endif %} <!-- avatar conains 'http' -->
+
                 {% if member.coadvisor %}
                     {% if member.coadvisor-url %}
                     <h4 itemprop="coadvisor">Co-advisor: <a href="{{ member.coadvisor-url}}">{{ member.coadvisor }}</a></h4>
                     {% else %}
                         <h4 itemprop="coadvisor">Co-advisor: {{ member.coadvisor }}</h4>
                     {% endif %}
-                {% endif %}
+                {% endif %} <!-- Coadvisor -->
+
                 {% if member.bio %}
                 <p class="member-bio-box">
                     <span class="center-if-single-line">
                         {{ member.bio }}
                     </span>
                 </p>
-                {% endif %}
+                {% endif %} <!-- Bio -->
+
                 {% if member.email %}<a href="mailto:{{ member.email }}" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
                 {% if member.twitter %}<a href="http://twitter.com/{{ member.twitter }}" class="member-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
                 {% if member.facebook %}<a href="http://facebook.com/{{ member.facebook }}" class="member-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
