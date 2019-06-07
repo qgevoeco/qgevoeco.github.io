@@ -25,11 +25,14 @@
         	    <img src="{{ member.avatar }}" class="bio-photo" alt="{{ member.name }} bio photo">
             {% else %}
                 {% if member.avatar contains 'circle' %}
+		<!-- created following .sh script using image-magick -->
         	        <img src="{{ site.baseurl }}/images/{{ member.avatar }}" class="bio-photo" alt="{{ member.name }} bio photo">
                     {% else %}
+			<!-- If no avatar is supplied to 1 of 2 below: -->
                         {% if member.github %}
                                 {% avatar {{ member.github }} size=400 %}
                             {% else %}
+				<!-- DEFAULT if no avatar: Warlak avatar -->
         	                 <img src="{{ site.baseurl }}/images/circle_Warlak.png" class="bio-photo" alt="{{ member.name }} bio photo">
                         {% endif %} <!-- github username present -->
                 {% endif %} <!-- avatar conains 'circle' -->
