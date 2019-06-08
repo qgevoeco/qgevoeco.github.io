@@ -4,6 +4,7 @@ title: "How to create a draft for a post"
 categories: articles
 date: 2019-06-04T17:24:00
 modified:
+comments: true
 except: "A template for starting a draft, before publishing"
 tags: [sample, test, draft]
 ---
