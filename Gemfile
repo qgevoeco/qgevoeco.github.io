@@ -9,3 +9,6 @@ gem "jekyll-avatar"
 gem "jekyll-scholar"
 gem "jekyll-sitemap"
 
+group :jekyll_plugins do
+  gem 'jekyll-picture-tag', git: 'https://github.com/robwierzbowski/jekyll-picture-tag/'
+end
