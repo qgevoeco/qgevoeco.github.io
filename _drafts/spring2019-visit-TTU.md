@@ -1,17 +1,29 @@
 ---
 layout: article
-title: "A visit with Bre at Texas Tech"
+title: "A visit to Texas Tech"
 categories: news
-date: 2019-04-04T17:24:00
+date: 2019-04-18T11:24:00
 modified: 2019-06-08T16:43:00
 comments: true
 tags: [news, science, travel]
 except: "Fear, frogs, fire, & Buddy Holly: my visit to TTU"
+image:
+  teaser: TTU_BuddyHolly-400-400a57.jpg
 ---
 
 I had a wonderful trip to Lubbock, TX to visit my good friends from grad school - [Bre Harris](http://www.depts.ttu.edu/biology/people/faculty/harris/) and [Zach Hohman](https://www.depts.ttu.edu/psy/people/zhohman/). The main purpose was to visit the [TTU Department of Biological Sciences](https://www.depts.ttu.edu/biology/), but it is always nice to see some friendly faces in the crowd during your seminar.
 
-<!-- TODO insert seminar image here -->
+
+<figure class="half">
+  <img
+    src="{% picture direct Wolak_TTU_titleSlide.jpg %}"
+    alt="Matt presenting at TTU">
+  <img
+    src="{% picture direct TTU_BuddyHolly.jpg %}"
+    alt="Outside the Buddy Holly Center">
+</figure>
+
+
 
 It was fascinating to hear what Bre has been up to since we were together at [UCR](https://eeob.ucr.edu/), particularly I was intriguted by her recent research on stress and fear in *Xenopus laevis* frogs - with definite extensions to people! I also learned a whole lot more about the ecology of fire (as well as a great perspective on life in academia) than I ever imagined, from [Dylan Schwilk](http://schwilk.org/). My discussions with [Sean Rice](https://www.depts.ttu.edu/biology/people/Faculty/Rice/home/), were very enlightening and they really challenged my understanding of some core quantitative genetic assumptions/practices. I'll have to keep mulling over the ideas that arose from our dicussing for a while...
 
