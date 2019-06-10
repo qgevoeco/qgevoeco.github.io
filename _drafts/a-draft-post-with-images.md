@@ -76,7 +76,7 @@ And you'll get something that looks like this:
 </figure>
 
 
-### Images that links to a larger version of the image
+### Images that link to a larger version of the image
 
 <figure class="third">
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
@@ -84,4 +84,25 @@ And you'll get something that looks like this:
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
 	<figcaption>Three linked images.</figcaption>
 </figure>
+
+
+## Figure tag with Jekyll-picture-tag
+
+
+<figure class="half">
+  <img
+    src="{% picture direct bio-photo.jpg %}"
+    alt="local file placeholder">
+  <img
+    src="{% picture direct bio-photo.jpg %}"
+    alt="local file placeholder">
+</figure>
+
+
+```html
+<figure class="half">
+	<img src="{{ site.url }}{% picture direct bio-photo.jpg %}">
+	<img src="{{ site.url }}{% picture direct bio-photo.jpg %}">
+</figure>
+```
 
