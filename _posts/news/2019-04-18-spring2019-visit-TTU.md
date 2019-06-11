@@ -8,7 +8,7 @@ comments: true
 tags: [news, science, travel]
 except: "Fear, frogs, fire, & Buddy Holly: my visit to TTU"
 image:
-  teaser: TTU_BuddyHolly-400-400a57.jpg
+  teaser: TTU_BuddyHolly.jpg
 ---
 
 I had a wonderful trip to Lubbock, TX to visit my good friends from grad school - [Bre Harris](http://www.depts.ttu.edu/biology/people/faculty/harris/) and [Zach Hohman](https://www.depts.ttu.edu/psy/people/zhohman/). The main purpose was to visit the [TTU Department of Biological Sciences](https://www.depts.ttu.edu/biology/), but it is always nice to see some friendly faces in the crowd during your seminar.
