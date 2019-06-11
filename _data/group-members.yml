@@ -4,12 +4,12 @@
     members:
     - name: Matthew Wolak
       role: Principle Investigator
-      web: gqevoeco.com
+      web: https://gqevoeco.com
       email: terps@auburn.edu
       avatar: circle_WolakMatthew.png
+      github: matthewwolak
       bio: > 
            Fascinated by variance. Investigates the causes of among individual variation and how they affect evolution by natural selection.
-      github: matthewwolak
 
 #- title: Postdocs
 #  members:
@@ -17,10 +17,10 @@
 #  - name: Maria Joao Janeiro
 #    role: Postdoctoral Researcher
 #    start-date: 2019
-#    bio: >
-#        Short and sweet.
 #    avatar: # in `/images`
 #    github: <octo-username>
+#    bio: >
+#        Short and sweet.
 
   - title: Graduate Students
     members:
@@ -36,10 +36,10 @@
       role: Ph.D. Student
       start-date: 2019
       avatar: circle_CaldwellMolly.png
-      bio: > 
-           Molly received a Bachelor of Science in Zoology from Auburn University in 2012 and went on to complete a Master’s degree in Field and Organismal Biology from Louisiana State University in Shreveport. Her Master's thesis research was on variation in Green Heron nesting success in coastal marshes of southwest Louisiana. After finishing her Master's, she worked for over 3 years in coastal bird monitoring and conservation with Audubon Mississippi Coastal Bird Stewardship Program (National Audubon Society), protecting beach-nesting bird species such as the Least Tern and Black Skimmer. Although she has spent the last several years working with birds, Molly has always loved herps and is excited to begin studying yellow-bellied sliders and temperature-dependent sex determination. Molly's general interests are in conservation, reproductive biology, ecology, and evolution. Her ultimate goal is to pursue a career in which she can work to conserve imperiled species of the southeastern US.
       coadvisor: Dan Warner
       coadvisor-url: https://warnerlab.weebly.com/
+      bio: > 
+           Molly received a Bachelor of Science in Zoology from Auburn University in 2012 and went on to complete a Master’s degree in Field and Organismal Biology from Louisiana State University in Shreveport. Her Master's thesis research was on variation in Green Heron nesting success in coastal marshes of southwest Louisiana. After finishing her Master's, she worked for over 3 years in coastal bird monitoring and conservation with Audubon Mississippi Coastal Bird Stewardship Program (National Audubon Society), protecting beach-nesting bird species such as the Least Tern and Black Skimmer. Although she has spent the last several years working with birds, Molly has always loved herps and is excited to begin studying yellow-bellied sliders and temperature-dependent sex determination. Molly's general interests are in conservation, reproductive biology, ecology, and evolution. Her ultimate goal is to pursue a career in which she can work to conserve imperiled species of the southeastern US.
 
     - name: Iwo Gross
       role: Ph.D. Student
@@ -51,10 +51,11 @@
     - name: Matthew Welc
       role: M.Sc. Student
       start-date: 2018
+      web: https://welcmatt.github.io
       avatar: circle_WelcMatthew.png
-      bio: > 
-           I am interested in the ecology, evolution, and biogeography of reptiles and amphibians – especially turtles. For my thesis I am studying stripe-necked musk turtles (<i>Sternotherus peltifer</i>) in the Cahaba river. When not chasing down turtles, I enjoy hiking, photography, and SCUBA diving.
       github: welcmatt
+      bio: > 
+           Matt is interested in the ecology, evolution, and biogeography of reptiles and amphibians – especially turtles. For his thesis at Auburn, he is studying stripe-necked musk turtles (<i>Sternotherus peltifer</i>) in the Cahaba river. When not chasing down turtles, Matt enjoys hiking, photography, and SCUBA diving.
 
 
 
@@ -66,10 +67,10 @@
       start-date: May 2019
       end-date: August 2019
       avatar: circle_LopezPerezJorge.png
-      bio: > 
-           I am an REU student working at Auburn for the summer of 2019. My project focuses on the effects that urbanization and human interaction may have on the nesting habits of yellow-bellied sliders. I am very interested in reptile/amphibian ecology, evolution, physiology, conservation, and parasite ecology. I have been lucky enough to work on various projects within these fields during my undergraduate career. Currently I am working on my undergraduate thesis, looking at potential sexual dimorphism within the immune system of <i>Sternotherus minor</i> (Loggerhead musk turtle). I spend most of my free time drawing, playing the guitar, photographing animals, and of course chasing down herps. 
       coadvisor: Dan Warner & Jamie Oaks
       coadvisor-url: https://www.auburn.edu/cosam/faculty/biology/index.htm
+      bio: > 
+           I am an REU student working at Auburn for the summer of 2019. My project focuses on the effects that urbanization and human interaction may have on the nesting habits of yellow-bellied sliders. I am very interested in reptile/amphibian ecology, evolution, physiology, conservation, and parasite ecology. I have been lucky enough to work on various projects within these fields during my undergraduate career. Currently I am working on my undergraduate thesis, looking at potential sexual dimorphism within the immune system of <i>Sternotherus minor</i> (Loggerhead musk turtle). I spend most of my free time drawing, playing the guitar, photographing animals, and of course chasing down herps. 
 
 
 #- title: Honorary Members
