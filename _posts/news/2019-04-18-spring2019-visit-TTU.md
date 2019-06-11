@@ -2,8 +2,8 @@
 layout: article
 title: "A visit to Texas Tech"
 categories: news
-date: 2019-04-18T11:24:00
-modified: 2019-06-08T16:43:00
+date: 2019-04-18
+modified: 2019-06-08
 comments: true
 tags: [news, science, travel]
 except: "Fear, frogs, fire, & Buddy Holly: my visit to TTU"
