@@ -7,7 +7,7 @@ modified: 2019-06-11
 author:
 comments: true
 tags: [news, science, beetles, competition]
-except: "Sport at its finest"
+excerpt: "Sport at its finest"
 image:
   feature: feature-20190424-beetleOlympics.jpg
   teaser: 20190424-beetleOlympics.jpg

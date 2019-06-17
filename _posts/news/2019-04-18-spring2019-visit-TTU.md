@@ -6,7 +6,7 @@ date: 2019-04-18
 modified: 2019-06-08
 comments: true
 tags: [news, science, travel]
-except: "Fear, frogs, fire, & Buddy Holly: my visit to TTU"
+excerpt: "Fear, frogs, fire, & Buddy Holly: my visit to TTU"
 image:
   teaser: TTU_BuddyHolly.jpg
 ---
