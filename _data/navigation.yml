@@ -10,6 +10,16 @@
   excerpt: Group members
   image:
 
+#- title: Research
+#  url: /research/
+#  excerpt: What we do
+#  image:
+
+- title: Teaching
+  url: /teaching/
+  excerpt: Courses, workshops, and reading groups
+  image:
+
 - title: Posts
   url: /articles
   excerpt: Thoughts from the Group
