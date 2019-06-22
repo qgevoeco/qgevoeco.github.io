@@ -2,17 +2,23 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://qgevoeco.github.io/news/spring2019-visit-TTU/</loc>
-<lastmod>2019-04-18T00:00:00-05:00</lastmod>
+<lastmod>2019-04-18T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>https://qgevoeco.github.io/news/spring2019-beetleOlympics/</loc>
-<lastmod>2019-04-24T00:00:00-05:00</lastmod>
+<lastmod>2019-04-24T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>https://qgevoeco.github.io/people/</loc>
 </url>
 <url>
+<loc>https://qgevoeco.github.io/teaching/</loc>
+</url>
+<url>
 <loc>https://qgevoeco.github.io/news/</loc>
+</url>
+<url>
+<loc>https://qgevoeco.github.io/research/</loc>
 </url>
 <url>
 <loc>https://qgevoeco.github.io/articles/</loc>
