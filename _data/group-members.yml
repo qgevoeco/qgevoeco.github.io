@@ -11,16 +11,16 @@
       bio: > 
            Fascinated by variance. Investigates the causes of among individual variation and how they affect evolution by natural selection.
 
-- title: Postdocs
-  members:
+  - title: Postdocs
+    members:
 
-  - name: Maria Joao Janeiro
-    role: Postdoctoral Researcher
-    start-date: 2019
-    avatar: 
-    github: mjoaojaneiro
-    bio: >
-        Stats wizard, QG guru. 
+    - name: Maria Joao Janeiro
+      role: Postdoctoral Researcher
+      start-date: 2019
+      avatar: 
+      github: mjoaojaneiro
+      bio: >
+          Stats wizard, QG guru. 
 
 
   - title: Graduate Students
