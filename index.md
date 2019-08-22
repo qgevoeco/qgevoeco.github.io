@@ -11,6 +11,9 @@ image:
 We are evolutionary ecologists seeking to explain how organisms adapt to their environments. The overarching question of our research is **how do natural selection and inheritance interact to shape phenotypes over time?** We study the factors within populations that generate among individual differences in highly conspicuous features of mating systems, life histories, and sexual dimorphisms. These features dynamically interact to determine the transmission of alleles between generations and to govern population demography. Thus, our research addresses fundamental questions in biology regarding how organisms mate, what maintains adaptive genetic variation, and how do populations respond to environmental change. 
 
 ## Would you like to join the group?
+
+See recent announcements/opportunities in the [News section](./news)
+
 #### Undergraduate students
 If you are interested in volunteering in the lab please [e-mail me](mailto:terps@auburn.edu) a 3-5 sentence statement of your research interests, your CV/resume, and current (unofficial) GPA.
 
