@@ -11,8 +11,4 @@ excerpt: "A template for starting a draft, before publishing"
 
 To preview the site with drafts on a localhost, run `bundle exec jekyll serve --drafts` with the `--drafts` switch.
 
-<!--
-{% if page.comments %} 
 
-{% endif %} 
--->
