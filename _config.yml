@@ -32,7 +32,6 @@ scholar:
   locale: en
   sort_by: year
   order: descending
-  use_raw_bibtex_entry: true
   bibtex_filters: latex
   source: ./_bibliography
   bibliography: references.bib
