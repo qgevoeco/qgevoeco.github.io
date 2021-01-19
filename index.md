@@ -10,6 +10,8 @@ image:
 
 We are evolutionary ecologists seeking to explain how organisms adapt to their environments. The overarching question of our research is **how do natural selection and inheritance interact to shape phenotypes over time?** We study the factors within populations that generate among individual differences in highly conspicuous features of mating systems, life histories, and sexual dimorphisms. These features dynamically interact to determine the transmission of alleles between generations and to govern population demography. Thus, our research addresses fundamental questions in biology regarding how organisms mate, what maintains adaptive genetic variation, and how do populations respond to environmental change. 
 
+Our group is committed to creating a successful and positive dynamic in which to further the group research goals with the highest scientific integrity. This involves being patient, careful, and detailed while respecting people's time, opinions, contributions, and backgrounds. We believe it is our shared responsibility to provide a welcoming space for all people to make scientific and academic advancements, to not tolerate speech or actions that are discriminatory, racist, or offensive, and to recognize our own biases and work to break down these and other barriers to inclusivity and equity in academia.
+
 ## Would you like to join the group?
 
 See recent announcements/opportunities in the [News section](./news)
