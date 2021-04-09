@@ -8,7 +8,7 @@ comments: true
 tags: [people, graduate, personnel]
 excerpt: "Successful MSc thesis defense"
 image:
-  teaser: circle_WelcMatthew.png
+  teaser: Welc_MuskTurtleFemale_Xrays_20200514.jpg
 ---
 
 [Matt Welc](/people) successfully presented and defended his Master's thesis research - and lives to tell the tale!
