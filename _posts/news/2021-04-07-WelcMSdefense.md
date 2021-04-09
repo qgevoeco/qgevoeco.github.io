@@ -5,8 +5,8 @@ categories: news
 date: 2021-04-07T17:24:00
 modified:
 comments: true
-tags: [graduate school, people, graduate, personnel]
-excerpt: "Successful Master's thesis defense"
+tags: [people, graduate, personnel]
+excerpt: "Successful MSc thesis defense"
 image:
   teaser: circle_WelcMatthew.png
 ---
