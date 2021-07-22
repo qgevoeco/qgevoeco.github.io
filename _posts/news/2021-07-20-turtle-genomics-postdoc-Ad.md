@@ -9,7 +9,6 @@ tags: [job, people, turtles, postdoc]
 excerpt: "The Wolak and Schwartz Labs are looking for genomic expertise"
 image:
   teaser: bio-photo.jpg
-
 ---
 
 
