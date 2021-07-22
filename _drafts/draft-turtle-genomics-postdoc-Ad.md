@@ -2,11 +2,14 @@
 layout: article
 title: "Postdoc Position Available"
 categories: news
-date: 2021-07-20T17:44:00
+#date: 2021-07-20T17:44:00
 modified:
 comments: false
 tags: [job, people, turtles, postdoc]
 excerpt: "The Wolak and Schwartz Labs are looking for genomic expertise"
+image:
+  teaser: bio-photo.jpg
+
 ---
 
 To preview the site with drafts on a localhost, run `bundle exec jekyll serve --drafts` with the `--drafts` switch.
