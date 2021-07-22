@@ -7,8 +7,6 @@ modified:
 comments: false
 tags: [job, people, turtles, postdoc]
 excerpt: "The Wolak and Schwartz Labs are looking for genomic expertise"
-image:
-  teaser: bio-photo-600-fbf27b.webp
 ---
 
 To preview the site with drafts on a localhost, run `bundle exec jekyll serve --drafts` with the `--drafts` switch.
