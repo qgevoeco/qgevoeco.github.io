@@ -31,7 +31,7 @@ I am very interested to discuss the prospect of collaborating on fellowship appl
 
 <div class="tiles">
 {% for post in site.categories.news %}
-	{% include post-grid.html %}
+	{% include post-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
