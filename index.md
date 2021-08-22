@@ -28,19 +28,27 @@ I am very interested to discuss the prospect of collaborating on fellowship appl
  
 
 ## Recent News
-
 <div class="tiles">
 {% for post in site.categories.news %}
-	{% include post-list.html %}
+      {% if forloop.index > 4 %}
+          {% break %}
+        {% endif %}
+      {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
+<div> 
+  <br>
+</div>
 
 ## Recent Posts
 
 <div class="tiles">
 {% for post in site.categories.articles %}
-	{% include post-list.html %}
+      {% if forloop.index > 4 %}
+          {% break %}
+        {% endif %}
+      {% include post-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
