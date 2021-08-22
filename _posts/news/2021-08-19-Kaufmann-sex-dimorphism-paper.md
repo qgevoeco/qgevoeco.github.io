@@ -9,7 +9,7 @@ tags: [science, publication, seed beetle, sexual dimorphism, quantitative geneti
 excerpt: "How can seed beetles evolve sexual size dimorphism"
 image:
   teaser: Kaufmann2021_Fig1.jpg
-  feature: Kaufmann2021_NEE_latest.png
+  feature: Kaufmann2021_NEE_Latest.png
 ---
 
 How can females and males evolve drastically different body sizes? Matthew has contributed to a paper that tackles this very question, in [Kaufmann, Wolak, Husby, & Immonen. 2021. Nature Ecology and Evolution](https://www.nature.com/articles/s41559-021-01530-z) - now published online!
