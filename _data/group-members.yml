@@ -11,9 +11,18 @@
       bio: > 
            Fascinated by variance. Investigates the causes of among individual variation and how they affect evolution by natural selection.
 
-#  - title: Postdocs
-#    members:
+  - title: Postdocs
+    members:
 
+    - name: Sam Weaver
+      role: Postdoctoral Researcher
+      start-date: 2022
+      bio: >
+           During his PhD at the University of Minnesota, Sam explored how climate interacts with processes that generate and maintain biodiversity in salamanders and mud turtles. He is thrilled to work with the Wolak and Schwartz labs to develop genomic resources and conduct population genetic analyses of diamond-backed terrapins, with the goal of quantifying patterns of dispersal and environmental selection in this ecologically distinct species. When not sitting on his computer, Sam enjoys fly fishing, biking, and birding.
+      avatar: circle_WeaverSam.png
+      github: sbw0033
+      coadvisor: Tonia Schwartz
+      coadvisor-url: https://www.schwartzlab-ecoevolutionarygenomics.org/
 
   - title: Graduate Students
     members:
@@ -43,8 +52,16 @@
 
 
 
-#  - title: Undergraduate Researchers
-#    members:
+  - title: Undergraduate Researchers
+    members:
+
+    - name: Justin Jenkins
+      role: NSF-REU
+      start-date: May 2022
+      end-date: July 2022
+      avatar: circle_JenkinsJustin.png
+      bio: > 
+           Justin is an undergraduate student at the University of Miami pursuing a B.S. in Marine Biology and Ecology. Justin has always had a passion for turtles and the marine environment and is excited to study the behavior of semi-aquatic turtles in Alabama. In the future, he intends to go to graduate school to conduct research on sea turtle demographics and behavior, and eventually pursue a career in sea turtle conservation. Throughout his career, he hopes to promote diversity in the field of science and the protection of our natural environment.  
 
 
 
@@ -69,6 +86,8 @@
     - name: Matthew Welc
       role: M.Sc. Student
       start-date: 2018
+      end-date: 2021
+      current-position: PhD student at the University of Kentucky
       web: https://welcmatt.github.io
       avatar: circle_WelcMatthew.png
       github: welcmatt
@@ -84,14 +103,6 @@
       github: mjoaojaneiro
       bio: >
           Stats wizard, QG guru. 
-
-    - name: Angela Carver
-      role: Ph.D. Student
-      start-date: 2020
-      web: https://angelacarver.wixsite.com/angelacarver
-      avatar: circle_CarverAngela.png
-      bio: >
-           Angela received a Bachelor of Science in Organismal Biology and a Bachelor of Engineering in Ecological Engineering from Auburn University in 2019. As an undergraduate, she conducted research on creating ethanol for biofuel from lignocellulosic biomass. After working at Schneider Electric for a year, Angela has returned to Auburn to pursue a Ph.D. in biology. In her free time, she enjoys photography, archery, and gardening.
 
 
 
