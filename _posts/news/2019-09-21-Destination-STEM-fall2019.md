@@ -18,7 +18,7 @@ Our own Molly Caldwell was on hand as part of the table by the [COSAM Women in S
 
 <figure class="third">
   <img
-    src="{% picture direct destSTEM19_MollyDebbie.jpg %}"
+    src="{% picture direct destSTEM19_MollyDebbie.png %}"
     alt="Molly, Debbie, and outreach animals">
 
   <img
