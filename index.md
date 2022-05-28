@@ -44,7 +44,7 @@ I am very interested to discuss the prospect of collaborating on fellowship appl
 ## Recent Posts
 
 <div class="tiles">
-{% for post in site.categories.articles %}
+{% for post in site.categories.posts %}
       {% if forloop.index > 4 %}
           {% break %}
         {% endif %}
