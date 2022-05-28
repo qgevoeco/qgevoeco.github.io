@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Articles"
+title: "Posts"
 date:
 modified:
 excerpt: "Various musings from the Group"
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.articles %}
+{% for post in site.categories.posts %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

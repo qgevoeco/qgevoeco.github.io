@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Teaching"
-permalink: /teaching/
+permalink: /:path
 image:
   feature:
 ---

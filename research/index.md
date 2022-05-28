@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Research"
-permalink: /research/
+permalink: /:path
 image:
   feature:
 ---

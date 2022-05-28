@@ -5,17 +5,16 @@ description: "The Wolak Research Group at Auburn University."
 logo: Warlak_siteLogoCard128px.png # 128x128 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en_US
-url: https://qgevoeco.github.io
-#url: https://qgevoeco.com
+#url: https://qgevoeco.github.io
+url: https://qgevoeco.com
 feed:
   path: atom.xml
 
 # Jekyll configuration
-
+permalink: /:categories/:title/
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..4
 highlighter: rouge
@@ -52,6 +51,7 @@ owner:
   bio: "Evolutionary Ecologist and Quantitative Geneticist"
   avatar: bio-WolakMatthew.png # 160x160 px image for author byline
   disqus-shortname: qgevoeco
+  instagram: qgevoeco
 
 picture:
   source: images/_fullsize
