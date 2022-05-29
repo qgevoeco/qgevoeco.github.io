@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Meet the Group:"
-permalink: /_site/people/
+permalink: /people/
 ---
 
 
