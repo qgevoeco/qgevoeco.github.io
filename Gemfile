@@ -1,3 +1,6 @@
+# Minimal Mistakes Jekyll Gemfile
+source "https://rubygems.org"
+
 #gem 'github-pages', group: :jekyll_plugins  # MEW removed: now build on own
 gem "minimal-mistakes-jekyll"
 gem "jekyll"
