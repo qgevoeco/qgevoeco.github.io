@@ -11,7 +11,7 @@ image:
   teaser: TTU_BuddyHolly.jpg
 ---
 
-I had a wonderful trip to Lubbock, TX to visit my good friends from grad school - [Bre Harris](http://www.depts.ttu.edu/biology/people/faculty/harris/) and [Zach Hohman](https://www.depts.ttu.edu/psy/people/zhohman/). The main purpose was to visit the [TTU Department of Biological Sciences](https://www.depts.ttu.edu/biology/), but it is always nice to see some friendly faces in the crowd during your seminar.
+I had a wonderful trip to Lubbock, TX to visit my good friends from grad school - [Bre Harris](https://www.depts.ttu.edu/biology/people/faculty/harris/) and [Zach Hohman](https://www.depts.ttu.edu/psy/people/zhohman/). The main purpose was to visit the [TTU Department of Biological Sciences](https://www.depts.ttu.edu/biology/), but it is always nice to see some friendly faces in the crowd during your seminar.
 
 
 <figure class="half">
@@ -25,7 +25,7 @@ I had a wonderful trip to Lubbock, TX to visit my good friends from grad school 
 
 
 
-It was fascinating to hear what Bre has been up to since we were together at [UCR](https://eeob.ucr.edu/), particularly I was intriguted by her recent research on stress and fear in *Xenopus laevis* frogs - with definite extensions to people! I also learned a whole lot more about the ecology of fire (as well as a great perspective on life in academia) than I ever imagined, from [Dylan Schwilk](http://schwilk.org/). My discussions with [Sean Rice](https://www.depts.ttu.edu/biology/people/Faculty/Rice/home/), were very enlightening and they really challenged my understanding of some core quantitative genetic assumptions/practices. I'll have to keep mulling over the ideas that arose from our dicussing for a while...
+It was fascinating to hear what Bre has been up to since we were together at [UCR](https://eeob.ucr.edu/), particularly I was intriguted by her recent research on stress and fear in *Xenopus laevis* frogs - with definite extensions to people! I also learned a whole lot more about the ecology of fire (as well as a great perspective on life in academia) than I ever imagined, from [Dylan Schwilk](https://schwilk.org/). My discussions with [Sean Rice](https://www.depts.ttu.edu/biology/people/Faculty/Rice/home/), were very enlightening and they really challenged my understanding of some core quantitative genetic assumptions/practices. I'll have to keep mulling over the ideas that arose from our dicussing for a while...
 
 However, out of the entire trip I'm probably most excited about the lunch I had with graduate students in the TTU DBS. I enjoyed their insightful questions, and it also gave me a chance to mess around before the trip with [the GIMP](https://www.gimp.org/) to produce this fabulously edited photo as the title slide to my talk with the graduate students:
 

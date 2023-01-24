@@ -18,20 +18,20 @@ Here are some examples of what images in a News post might look like. If you wan
 ## Markdown images
 
 An image located at another location on the internet
-![sample image](http://placehold.it/900x450.gif "placeholder")
+![sample image](https://placehold.it/900x450.gif "placeholder")
 
 An image located within this site
 ![sample image 2](/images/bio-photo.jpg "local file placeholder")
 
 An image that is a link
-[![sample image](http://placehold.it/900x450.gif)](http://placehold.it "A simple image placeholder service.")
+[![sample image](https://placehold.it/900x450.gif)](https://placehold.it "A simple image placeholder service.")
 
 ## Figure tag (for images or video)
 
 ### One
 
 <figure>
-	<a href="http://placehold.it/900x450.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<a href="https://placehold.it/900x450.gif"><img src="https://placehold.it/900x450.gif"></a>
 	<figcaption>Image caption.</figcaption>
 </figure>
 
@@ -50,8 +50,8 @@ Apply the `half` class like so to display two images side by side that share the
 And you'll get something that looks like this:
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
+	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
 	<figcaption>Two images.</figcaption>
 </figure>
 
@@ -71,9 +71,9 @@ Apply the `third` class like so to display three images side by side that share 
 And you'll get something that looks like this:
 
 <figure class="third">
-	<img src="http://placehold.it/900x450.gif">
-	<img src="http://placehold.it/900x450.gif">
-	<img src="http://placehold.it/900x450.gif">
+	<img src="https://placehold.it/900x450.gif">
+	<img src="https://placehold.it/900x450.gif">
+	<img src="https://placehold.it/900x450.gif">
 	<figcaption>Three images.</figcaption>
 </figure>
 
@@ -81,9 +81,9 @@ And you'll get something that looks like this:
 ### Images that link to a larger version of the image
 
 <figure class="third">
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
+	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
+	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
 	<figcaption>Three linked images.</figcaption>
 </figure>
 

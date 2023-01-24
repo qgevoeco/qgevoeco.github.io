@@ -3,7 +3,7 @@ layout: article
 title: "Destination STEM 2019"
 categories: news
 date: 2019-09-21T17:24:00
-modified:
+modified: 2023-01-23T20:36
 comments: true
 tags: [Science, outreach, STEM, research, teaching]
 excerpt: "Video games that bring QG Evolutionary Ecology to students"
@@ -14,7 +14,7 @@ image:
 
 The Wolak Research Group was well represented at [Destination STEM](https://www.auburn.edu/cosam/departments/outreach/programs/Destination%20STEM/index.htm) this year and I think the event was a great success! About 1,100 students from 18 middle and high schools near Auburn, came to the AU Coliseum to explore, interact, and learn about STEM fields.
 
-Our own Molly Caldwell was on hand as part of the table by the [COSAM Women in Sciences and Mathematics](http://www.auburn.edu/cosam/departments/outreach/programs/SWSM/index.htm), where she had some fabulous outreach animals to share in collaboration with Debbie, her mother and [Professor Emeritus](http://www.auburn.edu/cosam/faculty/biology/folkerts_deb/index.htm)!
+Our own Molly Caldwell was on hand as part of the table by the COSAM Women in Sciences and Mathematics, where she had some fabulous outreach animals to share in collaboration with Debbie, her mother and [Professor Emeritus](https://www.auburn.edu/cosam/departments/biology/biology-faculty/folkerts_deb/index.htm)!
 
 <figure class="third">
   <img

@@ -21,12 +21,12 @@ Use one of the following links to update the page directly from GitHub:
         Guinea pig eraser effectiveness.
     avatar: circle_Warlak.png # image created by MEW and located in `/images`
     email: ifyouwant@auburn.edu>
-    web: http://theotherwrightbrother.com # NOT http://qgevoeco.github.io
+    web: https://theotherwrightbrother.com # NOT https://qgevoeco.github.io
     cv: Wright_CV_2019.pdf # file located in `/people/`
     github: shiftingbalance
     twitter: beyondthegrave
     coadvisor: Matt's personalities all count as 1 advisor # otherwise someone else
-    coadvisor-url: http://blah.blah
+    coadvisor-url: https://blah.blah
 ```
     - If you want a different image as your `avatar:`
         - Name your image `LastnameFirstname.jpg` and e-mail this to Dr. Wolak.

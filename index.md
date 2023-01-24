@@ -23,7 +23,7 @@ If you are interested in volunteering in the lab please [e-mail me](mailto:terps
 Please [e-mail](mailto:terps@auburn.edu) me to talk about opportunities - though, I'm not actively seeking any new graduate students at this time
 
 #### Future Postdocs
-I am very interested to discuss the prospect of collaborating on fellowship applications, for example Canadian NSERC [Postdoctoral Programs](http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_eng.asp) ([fran&ccedil;ais: Niveau Postdoctoral](http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_fra.asp)) or [outgoing Marie Curie Fellowships](https://ec.europa.eu/research/mariecurieactions/node_en). Please [contact me](mailto:terps@auburn.edu).
+I am very interested to discuss the prospect of collaborating on fellowship applications, for example Canadian NSERC [Postdoctoral Programs](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_eng.asp) ([fran&ccedil;ais: Niveau Postdoctoral](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_fra.asp)) or [outgoing Marie Curie Fellowships](https://ec.europa.eu/research/mariecurieactions/node_en). Please [contact me](mailto:terps@auburn.edu).
 
  
 

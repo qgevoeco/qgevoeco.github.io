@@ -29,7 +29,7 @@ Under construction...
 
 <div class="tile">
   <h2 class="post-title">BIOL 7970 Wild Genetics</h2>
-  <p class="post-excerpt">Co-taught with <a href="http://wp.auburn.edu/grazelab/">Dr. Rita Graze</a>, we are serving up a mix of molecular population genetics and quantitative genetics - in the wild!</p>
+  <p class="post-excerpt">Co-taught with <a href="https://wp.auburn.edu/grazelab/">Dr. Rita Graze</a>, we are serving up a mix of molecular population genetics and quantitative genetics - in the wild!</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
