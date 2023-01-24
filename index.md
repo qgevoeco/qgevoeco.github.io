@@ -20,7 +20,7 @@ See recent announcements/opportunities in the [News section](./news)
 If you are interested in volunteering in the lab please [e-mail me](mailto:terps@auburn.edu) a 3-5 sentence statement of your research interests, your CV/resume, and current (unofficial) GPA.
 
 #### Future Graduate Students
-Please [e-mail](mailto:terps@auburn.edu) me to talk about opportunities - though, I'm not actively seeking any new graduate students at this time
+Please [e-mail](mailto:terps@auburn.edu) me to talk about opportunities<!-- start where new text inserted and next comment would have started -->. I am currently looking for students ready to tackle some hardcore Quantitative Genetics in seed beetles. Anyone interested in adaptation, evolutionary quantitative genetics, fitness, or just super quantitative/statistical evolutionary ecology should contact me! <!-- - though, I'm not actively seeking any new graduate students at this time  -->
 
 #### Future Postdocs
 I am very interested to discuss the prospect of collaborating on fellowship applications, for example Canadian NSERC [Postdoctoral Programs](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_eng.asp) ([fran&ccedil;ais: Niveau Postdoctoral](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_fra.asp)) or [outgoing Marie Curie Fellowships](https://ec.europa.eu/research/mariecurieactions/node_en). Please [contact me](mailto:terps@auburn.edu).
