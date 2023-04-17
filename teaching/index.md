@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Teaching"
-permalink: /:path
 image:
   feature:
 ---
@@ -18,8 +17,8 @@ Under construction...
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">BIOL 7970 BEERS</h2>
-  <p class="post-excerpt">Graduate level Behavioral, Ecological, and Evolutionary Research and Statistics</p>
+  <h2 class="post-title">BIOL 7210 Evolutionary Ecology</h2>
+  <p class="post-excerpt">Graduate level Evolutionary Ecology course</p>
 </div><!-- /.tile -->
 
 <div class="tile">
