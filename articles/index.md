@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "Posts"
-permalink: /:path
 date:
 modified:
 excerpt: "Various musings from the Group"

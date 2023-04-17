@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "News"
-permalink: /:path
 date:
 modified:
 excerpt: "The latest!"
