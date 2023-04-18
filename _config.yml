@@ -101,3 +101,5 @@ exclude:
   - package.json
   - spec
   - tmp
+
+timezone: America/Chicago
