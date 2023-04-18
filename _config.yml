@@ -102,4 +102,5 @@ exclude:
   - spec
   - tmp
 
+encoding: utf-8
 timezone: America/Chicago
