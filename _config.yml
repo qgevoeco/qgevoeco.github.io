@@ -54,6 +54,23 @@ owner:
   disqus-shortname: qgevoeco
   instagram: qgevoeco
 
+# Site Footer
+##TODO See how done in minimal-mistakes
+### will need to add footer.html file https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/footer.html
+#### and then add this to each page
+#footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+      # url:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/qgevoeco"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/qgevoeco"
+
+
 picture:
   source: images/_fullsize
   output: images
