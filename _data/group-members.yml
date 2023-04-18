@@ -11,18 +11,18 @@
       bio: > 
            Fascinated by variance. Investigates the causes of among individual variation and how they affect evolution by natural selection.
 
-  - title: Postdocs
-    members:
+#  - title: Postdocs
+#    members:
 
-    - name: Sam Weaver
-      role: Postdoctoral Researcher
-      start-date: 2022
-      bio: >
-           During his PhD at the University of Minnesota, Sam explored how climate interacts with processes that generate and maintain biodiversity in salamanders and mud turtles. He is thrilled to work with the Wolak and Schwartz labs to develop genomic resources and conduct population genetic analyses of diamond-backed terrapins, with the goal of quantifying patterns of dispersal and environmental selection in this ecologically distinct species. When not sitting on his computer, Sam enjoys fly fishing, biking, and birding.
-      avatar: circle_WeaverSam.png
-      github: sbw0033
-      coadvisor: Tonia Schwartz
-      coadvisor-url: https://www.schwartzlab-ecoevolutionarygenomics.org/
+#    - name: Sam Weaver
+#      role: Postdoctoral Researcher
+#      start-date: 2022
+#      bio: >
+#           During his PhD at the University of Minnesota, Sam explored how climate interacts with processes that generate and maintain biodiversity in salamanders and mud turtles. He is thrilled to work with the Wolak and Schwartz labs to develop genomic resources and conduct population genetic analyses of diamond-backed terrapins, with the goal of quantifying patterns of dispersal and environmental selection in this ecologically distinct species. When not sitting on his computer, Sam enjoys fly fishing, biking, and birding.
+#      avatar: circle_WeaverSam.png
+#      github: sbw0033
+#      coadvisor: Tonia Schwartz
+#      coadvisor-url: https://www.schwartzlab-ecoevolutionarygenomics.org/
 
   - title: Graduate Students
     members:
@@ -71,11 +71,25 @@
   - title: Former Lab Members
     members:
 
+
+    - name: Sam Weaver
+      role: Postdoctoral Researcher
+      start-date: 2022
+      end-date: 2023
+      current-position: Private Industry
+      bio: >
+           During his PhD at the University of Minnesota, Sam explored how climate interacts with processes that generate and maintain biodiversity in salamanders and mud turtles. He is thrilled to work with the Wolak and Schwartz labs to develop genomic resources and conduct population genetic analyses of diamond-backed terrapins, with the goal of quantifying patterns of dispersal and environmental selection in this ecologically distinct species. When not sitting on his computer, Sam enjoys fly fishing, biking, and birding.
+      avatar: circle_WeaverSam.png
+      github: sbw0033
+      coadvisor: Tonia Schwartz
+      coadvisor-url: https://www.schwartzlab-ecoevolutionarygenomics.org/
+
+
     - name: Jorge Lopez-Perez
       role: NSF-REU
       start-date: May 2019
       end-date: August 2019
-      current-position: Graduate Student in Biology at Southeastern Louisiana University
+      current-position: PhD Student in Biology at Utah State University
       avatar: circle_LopezPerezJorge.png
       coadvisor: Dan Warner & Jamie Oaks
       coadvisor-url: https://www.auburn.edu/cosam/faculty/biology/index.htm
