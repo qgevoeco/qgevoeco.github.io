@@ -85,6 +85,15 @@
       coadvisor-url: https://www.schwartzlab-ecoevolutionarygenomics.org/
 
 
+    - name: Clayton Jowers
+      role: NSF-REU
+      start-date: May 2022
+      end-date: August 2022
+      current-position: Undergraduate student at the University of West Florida
+#      avatar: 
+      coadvisor: Jessica McDonald
+      coadvisor-url: https://www.auburn.edu/cosam/faculty/math_stats/mcdonald/
+
     - name: Jorge Lopez-Perez
       role: NSF-REU
       start-date: May 2019
