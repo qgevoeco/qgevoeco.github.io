@@ -2,7 +2,6 @@
 layout: class
 title: "BIOL 7210 Evolutionary Ecology"
 categories: teaching
-comments: true
 tags: [sample, images, test]
 excerpt: "Graduate level Evolutionary Ecology course"
 ---

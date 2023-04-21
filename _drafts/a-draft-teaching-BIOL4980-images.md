@@ -2,7 +2,6 @@
 layout: class
 title: "BIOL 4980 Independent Research"
 categories: teaching
-comments: true
 tags: [sample, images, test]
 excerpt: "Undergraduate research experiences"
 ---

@@ -2,7 +2,6 @@
 layout: class
 title: "BIOL 7970 Wild Genetics"
 categories: teaching
-comments: true
 tags: [sample, images, test]
 excerpt: "Serving up a mix of molecular population genetics and quantitative genetics - in the wild!"
 ---

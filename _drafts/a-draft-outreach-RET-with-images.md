@@ -1,10 +1,7 @@
 ---
-layout: article
+layout: class
 title: "Research Experiences for Teachers (RET)"
 categories: outreach
-date: 2019-06-04T17:24:00
-modified:
-comments: true
 tags: [sample, images, test]
 excerpt: "Examples and code for displaying images in posts."
 ---
