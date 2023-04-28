@@ -10,10 +10,10 @@ image:
   teaser:
 ---
 
-Ways you can connect with our science
+Looking for hands-on, inquiry based programs to learn how to be a scientist by doing what scientists do? Check out one of our funded opportunities below to see how you can get involved.
 
 <div class="tiles">
 {% for post in site.categories.outreach %}
-  {% include post-grid.html %}
+  {% include page-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
