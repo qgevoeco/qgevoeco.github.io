@@ -3,12 +3,14 @@ layout: archive
 title: "Outreach"
 date:
 modified:
-excerpt: "How it all affects you!"
+excerpt: "Ways you can connect with our science!"
 tags: []
 image:
   feature:
   teaser:
 ---
+
+Ways you can connect with our science
 
 <div class="tiles">
 {% for post in site.categories.outreach %}
