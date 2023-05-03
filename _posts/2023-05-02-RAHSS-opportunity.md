@@ -8,7 +8,7 @@ image:
   teaser: Cmac_female_v_Botello_bioRender.png
 ---
 
-Are you a high school student in the Auburn area that is interested in Science? Want to earn a summer stipend of up to $3,600?
+Are you a high school student (currently in 9-11th grade) in the Auburn area that is interested in Science? Want to earn a summer stipend of up to $3,600?
 
 We are inviting you to join us on the Auburn University campus to develop and conduct a biology research project in the lab of [Dr. Matthew Wolak](https://www.auburn.edu/cosam/departments/biology/biology-faculty/wolak/index.htm). Come, be part of __BEETLES__ (**B**eetle **E**volution **E**quips **T**eachers and **L**earners through **E**ngaging in **S**cience)!
 
