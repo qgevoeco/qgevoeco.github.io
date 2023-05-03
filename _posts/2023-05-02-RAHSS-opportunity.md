@@ -17,7 +17,7 @@ Come, be part of __BEETLES__ (**B**eetle **E**volution **E**quips **T**eachers a
 ## How to apply
 _Currently, we are only accepting applications from students in the Young Professionals in Training program._
 
-To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak ([mew0099@auburn.edu](mailto:mew0099@auburn.edu)) by __5PM on May 21st__:
+To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on May 21st__:
 
   - Professional Resume
   - Statement of Purpose
