@@ -1,12 +1,21 @@
 ---
 layout: class
 title: "Research Experiences for Undergraduates (REU)"
-categories: outreach
-tags: [sample, images, test]
+categories: opportunities
+tags: [REU, research, undergraduate, science, BEETLES, NSF, CAREER]
 excerpt: "10-week paid summer programs to learn how to do research"
 image:
   teaser: JorgePresents20190726.jpg
 ---
+
+<figure class="half">
+  <img
+    src="{% picture direct JowersClayton_poster2022.jpg %}"
+    alt="Clayton Jowers and research poster">
+  <img
+    src="{% picture direct JenkinsJustin_poster2022.jpg %}"
+    alt="Justin Jenkins and research poster">
+</figure>
 
 
 

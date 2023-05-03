@@ -1,9 +1,9 @@
 ---
 layout: class
 title: "Research Experiences for Teachers (RET)"
-categories: outreach
-tags: [sample, images, test]
-excerpt: "Examples and code for displaying images in posts."
+categories: opportunities
+tags: [K-12, science, research, high school, BEETLES, NSF, CAREER]
+excerpt: "2-week paid summer experience plus supplies for your classroom"
 ---
 
 Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
