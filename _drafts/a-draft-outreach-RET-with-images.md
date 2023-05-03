@@ -2,7 +2,7 @@
 layout: class
 title: "Research Experiences for Teachers (RET)"
 categories: opportunities
-tags: [K-12, science, research, high school, BEETLES, NSF, CAREER]
+tags: [K-12, science, research, high school, BEETLES, NSF, CAREER, RET]
 excerpt: "2-week paid summer experience plus supplies for your classroom"
 ---
 

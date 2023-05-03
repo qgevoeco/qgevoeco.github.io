@@ -2,7 +2,7 @@
 layout: class
 title: "Research Experiences for Undergraduates (REU)"
 categories: opportunities
-tags: [REU, research, undergraduate, science, BEETLES, NSF, CAREER]
+tags: [REU, research, undergraduate, science, BEETLES, NSF, CAREER, REU]
 excerpt: "10-week paid summer programs to learn how to do research"
 image:
   teaser: JorgePresents20190726.jpg

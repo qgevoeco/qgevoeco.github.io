@@ -2,7 +2,7 @@
 layout: class
 title: "Research Assistantships for High School Students (RAHSS)"
 categories: opportunities
-tags: [K-12, science, research, high school, BEETLES, NSF, CAREER]
+tags: [K-12, science, research, high school, BEETLES, NSF, CAREER, RAHSS]
 excerpt: "6-week paid summer opportunity to participate in science"
 image:
   teaser: Cmac_female_v_Botello_bioRender.png
@@ -10,11 +10,17 @@ image:
 
 Are you a high school student in the Auburn area that is interested in Science? Want to earn a summer stipend of up to $3,600?
 
-We are inviting you to join us on the Auburn University campus to develop and conduct a biology research project in the lab of [Dr. Matthew Wolak](https://www.auburn.edu/cosam/departments/biology/biology-faculty/wolak/index.htm).
+We are inviting you to join us on the Auburn University campus to develop and conduct a biology research project in the lab of [Dr. Matthew Wolak](https://www.auburn.edu/cosam/departments/biology/biology-faculty/wolak/index.htm). Come, be part of __BEETLES__ (**B**eetle **E**volution **E**quips **T**eachers and **L**earners through **E**ngaging in **S**cience)!
 
-Come, be part of __BEETLES__ (**B**eetle **E**volution **E**quips **T**eachers and **L**earners through **E**ngaging in **S**cience)!
+<figure class="third">
+  <img
+    src="{% picture direct beetlePetriDishFocus_2018Oct.jpg %}"
+    alt="beetle rearing petri dish stacks">
+</figure>
 
 ## How to apply
+
+#### Dates June 12 - July 21, 2023
 _Currently, we are only accepting applications from students in the Young Professionals in Training program._
 
 To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on May 21st__:
@@ -27,11 +33,6 @@ To be considered for one of the two assistantships each summer, please e-mail th
         - Education and career goals
         - What the applicant hopes to achieve by participating in the BEETLES program and how BEETLES will help them towards their future goals 
 
-<figure class="third">
-  <img
-    src="{% picture direct beetlePetriDishFocus_2018Oct.jpg %}"
-    alt="beetle rearing petri dish stacks">
-</figure>
 
 ## What to expect
 
