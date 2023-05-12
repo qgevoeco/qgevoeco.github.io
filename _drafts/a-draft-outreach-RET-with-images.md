@@ -3,103 +3,44 @@ layout: class
 title: "Research Experiences for Teachers (RET)"
 categories: opportunities
 tags: [K-12, science, research, high school, BEETLES, NSF, CAREER, RET]
-excerpt: "2-week paid summer experience plus supplies for your classroom"
+excerpt: "2-week paid summer experience plus supplies and support for your classroom"
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Are you a high school Biology teacher (currently teaching 9-12th grade) that is interested in Science? Want to earn a summer stipend and supplies for your classroom?
 
-{% include toc.html %}
+We are inviting you to join us on the Auburn University campus to develop an inquiry-based lesson plan about the scientific method while participating in the lab of [Dr. Matthew Wolak](https://www.auburn.edu/cosam/departments/biology/biology-faculty/wolak/index.htm). Come, be part of __BEETLES__ (**B**eetle **E**volution **E**quips **T**eachers and **L**earners through **E**ngaging in **S**cience)!
 
-## Markdown images
+  - Do hands-on research and lesson-planning associated with ALEX state science standard for _Unity and Diversity_ core ideas
+    - _genetic variation, evolution, fitness, population growth_ ALEX teacher vocabulary (standards 9, 10, 14, 15)
+  
+  - Teachers will engage in a workshop to develop an inquiry-based lesson plan to teach concepts about evolution by natural selection and convey the scientific process through student-led research projects in their own classrooms.
 
-An image located at another location on the internet
-![sample image](https://placehold.it/900x450.gif "placeholder")
+  - Teachers will refine technical abilities such as image capture and analysis of size and color (e.g., MorphoJ), analytical balance measurements, and observing life history stages, courtship, and mating behaviors.
 
-An image located within this site
-![sample image 2](/images/bio-photo.jpg "local file placeholder")
+  - Teachers will be taught how to present results using summary statistics that emphasize parameter estimates and uncertainty, make simple data plots, and interpet results.
+  
+  - Teachers will create a collaborative research poster that reports their hypothesis-driven test. The teachers will give a brief presentation of their poster to the research group.
 
-An image that is a link
-[![sample image](https://placehold.it/900x450.gif)](https://placehold.it "A simple image placeholder service.")
-
-## Figure tag (for images or video)
-
-### One
-
-<figure>
-	<a href="https://placehold.it/900x450.gif"><img src="https://placehold.it/900x450.gif"></a>
-	<figcaption>Image caption.</figcaption>
-</figure>
-
-### Two in a row
-
-Apply the `half` class like so to display two images side by side that share the same caption.
-
-```html
-<figure class="half">
-	<img src="{{ site.url }}/images/image-filename-1.jpg">
-	<img src="{{ site.url }}/images/image-filename-2.jpg">
-	<figcaption>Caption describing these two images.</figcaption>
-</figure>
-```
-
-And you'll get something that looks like this:
-
-<figure class="half">
-	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
-	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
-	<figcaption>Two images.</figcaption>
-</figure>
-
-### Three in a row
-
-Apply the `third` class like so to display three images side by side that share the same caption.
-
-```html
+  - To facilitate each teacher implementing the planned learning activity with seed beetles, my research team and I will visit classrooms, set up beetle cultures, and provide equipment and materials.
+  
 <figure class="third">
-	<img src="{{ site.url }}/images/image-filename-1.jpg">
-	<img src="{{ site.url }}/images/image-filename-2.jpg">
-	<img src="{{ site.url }}/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-```
-
-And you'll get something that looks like this:
-
-<figure class="third">
-	<img src="https://placehold.it/900x450.gif">
-	<img src="https://placehold.it/900x450.gif">
-	<img src="https://placehold.it/900x450.gif">
-	<figcaption>Three images.</figcaption>
-</figure>
-
-
-### Images that link to a larger version of the image
-
-<figure class="third">
-	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
-	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
-	<a href="https://placehold.it/1200x600.gif"><img src="https://placehold.it/900x450.gif"></a>
-	<figcaption>Three linked images.</figcaption>
-</figure>
-
-
-## Figure tag with Jekyll-picture-tag
-
-
-<figure class="half">
   <img
-    src="{% picture direct bio-photo.jpg %}"
-    alt="local file placeholder">
+    src="{% picture direct au_cosam_v.png %}"
+    alt="Auburn University COSAM">
   <img
-    src="{% picture direct bio-photo.jpg %}"
-    alt="local file placeholder">
+    src="{% picture direct nsf-logo.png %}"
+    alt="National Science Foundation logo">
+  <img
+    src="{% picture direct GEARSEF_logo.png %}"
+    alt="Greater East Alabama Regional Science and Engineering Fair">
+<!-- TODO: another picture = Wolak Research Group/BEETLES symbol/graphic -->    
 </figure>
 
 
-```html
-<figure class="half">
-	<img src="{{ site.url }}{% picture direct bio-photo.jpg %}">
-	<img src="{{ site.url }}{% picture direct bio-photo.jpg %}">
-</figure>
-```
+# Timeline
+
+# Auburn University Destination STEM
+
+<iframe width="556" height="310" src="https://www.youtube.com/embed/OZV_Irw4d_Y" title="2022 Destination STEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
