@@ -23,6 +23,8 @@ I am very interested to discuss the prospect of collaborating on fellowship appl
 
 
 ## [Educational Research opportunities](#educational-research-opportunities)
+
+### BEETLES
 Looking for hands-on, inquiry based programs to learn how to be a scientist by doing what scientists do? Check out one of our __BEETLES__ (**B**eetle **E**volution **E**quips **T**eachers and **L**earners through **E**ngaging in **S**cience) opportunities below to see how you can get involved.
 
 The overarching goal of BEETLES is to train students and teachers to conduct scientific research on evolution by natural selection so that participants are better engaged with the process of science, have a stronger science identity, and retain interest in science.
