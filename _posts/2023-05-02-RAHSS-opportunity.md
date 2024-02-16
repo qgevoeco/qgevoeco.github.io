@@ -20,10 +20,10 @@ We are inviting you to join us on the Auburn University campus to develop and co
 
 ## How to apply
 
-#### Dates June 12 - July 21, 2023
+#### Tentative Dates June 10 - July 19, 2024
 _Currently, we are only accepting applications from students in the Young Professionals in Training program._
 
-To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on May 21st__:
+To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on March 18th__:
 
   - Professional Resume
   - Statement of Purpose
@@ -47,8 +47,8 @@ High school students will work together to carry out the project, analyze data, 
 
 <figure class="third">
   <img
-    src="{% picture direct au_cosam_v.png %}"
-    alt="Auburn University COSAM">
+    src="{% picture direct AUtowerlogoblack.jpg %}"
+    alt="Auburn University">
   <img
     src="{% picture direct nsf-logo.png %}"
     alt="National Science Foundation logo">
