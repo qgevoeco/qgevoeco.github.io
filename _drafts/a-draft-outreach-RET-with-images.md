@@ -25,8 +25,8 @@ We are inviting you to join us on the Auburn University campus to develop an inq
   
 <figure class="third">
   <img
-    src="{% picture direct au_cosam_v.png %}"
-    alt="Auburn University COSAM">
+    src="{% picture direct AUtowerlogoblack.jpg %}"
+    alt="Auburn University">
   <img
     src="{% picture direct nsf-logo.png %}"
     alt="National Science Foundation logo">
