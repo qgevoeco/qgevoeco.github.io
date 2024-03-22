@@ -4,6 +4,8 @@ title: "Research Experiences for Teachers (RET)"
 categories: opportunities
 tags: [K-12, science, research, high school, BEETLES, NSF, CAREER, RET]
 excerpt: "2-week paid summer experience plus supplies and support for your classroom"
+image:
+  teaser: Cmac_female_v_Botello_bioRender.png
 ---
 
 Are you a high school Biology teacher (currently teaching 9-12th grade) located in or around east Alabama and are interested in a research experience to augment your own education and training for teaching science? Want to earn a summer stipend and supplies for your classroom?
