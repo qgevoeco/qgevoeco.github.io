@@ -8,7 +8,7 @@ image:
   teaser: Cmac_female_v_Botello_bioRender.png
 ---
 
-Are you a high school student (currently in 9-11th grade) in the Auburn area that is interested in Science? Want to earn a summer stipend of up to $3,600?
+Are you a high school student (currently in 9-11th grade) in the Auburn area that is interested in Science? Want to earn a summer stipend of up to __$3,600__?
 
 We are inviting you to join us on the Auburn University campus to develop and conduct a biology research project in the lab of [Dr. Matthew Wolak](https://www.auburn.edu/cosam/departments/biology/biology-faculty/wolak/index.htm). Come, be part of __BEETLES__ (**B**eetle **E**volution **E**quips **T**eachers and **L**earners through **E**ngaging in **S**cience)!
 
@@ -23,7 +23,7 @@ We are inviting you to join us on the Auburn University campus to develop and co
 #### Tentative Dates June 10 - July 19, 2024
 _Currently, we are only accepting applications from students in the Young Professionals in Training program._
 
-To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on March 18th__:
+To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by ~~5PM on March 18th~~ __5PM on April 8th__:
 
   - Professional Resume
   - Statement of Purpose
