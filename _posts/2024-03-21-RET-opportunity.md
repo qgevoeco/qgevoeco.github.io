@@ -58,13 +58,13 @@ Read on for more information and please e-mail Dr. Wolak (<a href="mailto:mew009
 
 #### Tentative Dates June 17 - June 28, 2024
 
-To be considered for one of the two teacher fellow positions each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on May 1st__:
+To be considered for one of the two teacher fellow positions each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on May 27th__:
 
   - Professional Resume
     - Maximum of 3 pages
 
   - Statement of Purpose
-    - 1-page maximum (single spaced, 11 pt. font) statement about your background in biology, current and planned teaching assignments, and expectations for what you would like to achieve from the research experience and lesson-plan development.
+    - 1-page maximum (single spaced, 12 pt. font) statement about your background in biology, current and planned teaching assignments, and expectations for what you would like to achieve from the research experience and lesson-plan development.
     
 
 ## Timeline and tiered stipends
