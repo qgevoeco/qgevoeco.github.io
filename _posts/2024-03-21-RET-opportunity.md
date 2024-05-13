@@ -58,7 +58,7 @@ Read on for more information and please e-mail Dr. Wolak (<a href="mailto:mew009
 
 #### Tentative Dates June 17 - June 28, 2024
 
-To be considered for one of the two teacher fellow positions each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on May 27th__:
+To be considered for one of the two teacher fellow positions each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __9PM on June 3rd__:
 
   - Professional Resume
     - Maximum of 3 pages
