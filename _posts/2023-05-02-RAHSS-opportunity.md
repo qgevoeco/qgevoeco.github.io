@@ -20,10 +20,9 @@ We are inviting you to join us on the Auburn University campus to develop and co
 
 ## How to apply
 
-#### Tentative Dates June 10 - July 19, 2024
-_Currently, we are only accepting applications from students in the Young Professionals in Training program._
+#### Tentative Dates June 12 - July 25, 2025
 
-To be considered for one of the two assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by ~~5PM on March 18th~~ __5PM on April 8th__:
+To be considered for one of the assistantships each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __5PM on April 28th__:
 
   - Professional Resume
   - Statement of Purpose
