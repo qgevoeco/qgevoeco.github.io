@@ -34,7 +34,7 @@ Read on for more information and please e-mail Dr. Wolak (<a href="mailto:mew009
 
   - and up to __$1,600__ to cover costs associated with participation
   
-  - and up to __$2,000__ worth of equipment and supplies for your classroom
+  - and up to __$2,000__ worth of equipment and supplies for your school/classroom
 
 ## What to expect
   - Do hands-on research and lesson-planning associated with ALEX state science standard for _Unity and Diversity_ core ideas
@@ -56,9 +56,10 @@ Read on for more information and please e-mail Dr. Wolak (<a href="mailto:mew009
 
 ## How to apply
 
-#### Tentative Dates June 17 - June 28, 2024
+#### Tentative Dates June 2 - June 13, 2025
+The dates are slightly flexible, so please communicate with Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) if you are interested in the opportunity, but have a major scheduling conflict.
 
-To be considered for one of the two teacher fellow positions each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __9PM on June 3rd__:
+To be considered for one of the two teacher fellow positions each summer, please e-mail the following attachments to Dr. Wolak (<a href="mailto:mew0099@auburn.edu" class="member-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>) by __9PM on May 9th__:
 
   - Professional Resume
     - Maximum of 3 pages
