@@ -50,6 +50,7 @@
       avatar: circle_BrownOlivia.png
       bio: >
            Olivia received a Bachelor of Science in Wildlife Ecology and Management from Auburn University in 2022. Olivia's general interests are in ecology, evolution, and conservation. During her undergraduate career, Olivia developed and executed a research project studying boldness behavior of semi-aquatic freshwater turtles. As a Master's student, Olivia hopes to contribute to our growing understanding of ecology and evolution as well as encourage an inclusive and productive lab environment for every member.
+           
 #      github: 
 
 #  - title: Undergraduate Researchers
@@ -58,6 +59,7 @@
 
 
   - title: Honorary Members
+    members:
 
     - name: Justin Jenkins
       role: NSF-REU
