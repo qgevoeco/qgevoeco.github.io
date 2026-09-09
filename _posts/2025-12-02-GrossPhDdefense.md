@@ -15,5 +15,12 @@ image:
 
 Iwo got our diamond-backed terrapin (_Malaclemys terrapin_) research on the Gulf of Mexico coast up and running, single-handedly made the field work happen for several years (including during a global pandemic), and was able to write up some great science at the end of it. Iwo has completed a very nice dissertation with a successful defense! I enjoyed seeing Iwo present his excellent research into conservation translocation meta-analyses, computational pipelines for testing and carrying out parentage assignment, and drone-based 3D photogrammetry to evaluate turtle nest-site choice in a rigorous and new approach.
 
+<figure>
+  <img
+    src="{% picture direct AUcommencement2025-12-13.jpg %}"
+    alt="Dr. Gross and the rest of the Biology doctoral graduates at commencement">
+</figure>
+
+
 Iwo has a prestigious postdoctoral position in the [Nakagawa/COSEE lab](https://cossee.org/) at the University of Alberta that he will begin in February 2026. We hate to see Iwo go, but are excited to see all of the great research synthesis projects that he will produce in the next few years. Good luck and stay warm up there!
  
